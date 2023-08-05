@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a student developer😄
+## Hi there 👋, I'm student developer😄
 - 🌱 I’m currently learning ...
 
 <!--
