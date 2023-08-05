@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm student developer😄
 - 🌱 I’m currently learning ...
+- 🔭 I'm web developer
 
 <!--
 **vanhiepdev/vanhiepdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
