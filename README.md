@@ -2,6 +2,8 @@
 <img align="center" src="https://github.com/vhiepp/vhiepp/blob/main/mario3.gif" width="100%"> 
 
 <h1 align="center">Hi 👋, I'm Van Hiep</h1>
+
+<p>I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with C++, I have expanded my knowledge and worked with many different languages ​​such as Javascript, PHP and C#. Every day is an opportunity for me to explore new things in programming and technology.</p>
 <h3 align="center" >Contact me</h3>
 <p align="center">
   <a href="https://www.facebook.com/vhiepp/">
@@ -11,8 +13,6 @@
     <img src="https://github.com/vhiepp/vhiepp/blob/main/gmail.svg" />
   </a>
 </p>
-<p>I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with C++, I have expanded my knowledge and worked with many different languages ​​such as Javascript, PHP and C#. Every day is an opportunity for me to explore new things in programming and technology.</p>
-
 
 * 🌍  I'm based in Tra Vinh, Viet Nam.
 * ✉️  You can contact me at [dhiep2307@gmail.com.](mailto:dhiep2307@gmail.com.)
