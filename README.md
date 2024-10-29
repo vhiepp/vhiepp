@@ -19,3 +19,4 @@
     <img src="https://github.com/vhiepp/vhiepp/blob/main/tech.svg" />
   </a>
 </p>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="32" height="32"/>
