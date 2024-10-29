@@ -8,7 +8,7 @@
     <img src="https://github.com/vhiepp/vhiepp/blob/main/fb.png" width="48" height="48" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dhiep2307@gmail.com&su=Liên hệ hợp tác, tuyển dụng">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://github.com/vhiepp/vhiepp/blob/main/gmail.svg" />
   </a>
   
 </p>
@@ -16,6 +16,6 @@
 <h2 align="center" >Software and Technology</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,flutter,nextjs,github,firebase,mysql,vscode,postman,linux,docker,dotnet,&perline=6" />
+    <img src="https://github.com/vhiepp/vhiepp/blob/main/tech.svg" />
   </a>
 </p>
