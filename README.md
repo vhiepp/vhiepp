@@ -15,7 +15,7 @@ I am a programmer who can spend hours talking and doing about programming relate
 
 * 🌍  I'm based in Tra Vinh, Viet Nam.
 * ✉️  You can contact me at [dhiep2307@gmail.com.](mailto:dhiep2307@gmail.com.)
-* 🧠  I'm learning .NET Framework and Flluter.
+* 🧠  I'm learning .NET Framework and Flutter.
 * 🤝  I'm open to collaborating on web and mobile app projects.
 <h1></h1>
 <h3 align="center" >Software and Technology</h3>
