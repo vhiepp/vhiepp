@@ -5,6 +5,6 @@
 <h2 align="center" >Software and Technology</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,flutter,nextjs,github,firebase,mysql,vscode,visualstudio,linux,docker,dotnet,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,flutter,nextjs,github,firebase,mysql,vscode,postman,linux,docker,dotnet,&perline=6" />
   </a>
 </p>
