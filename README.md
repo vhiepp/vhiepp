@@ -11,7 +11,8 @@
     <img src="https://github.com/vhiepp/vhiepp/blob/main/gmail.svg" />
   </a>
 </p>
-I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with C++, I have expanded my knowledge and worked with many different languages ​​such as Javascript, PHP and C#. Every day is an opportunity for me to explore new things in programming and technology.
+<p>I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with C++, I have expanded my knowledge and worked with many different languages ​​such as Javascript, PHP and C#. Every day is an opportunity for me to explore new things in programming and technology.</p>
+
 
 * 🌍  I'm based in Tra Vinh, Viet Nam.
 * ✉️  You can contact me at [dhiep2307@gmail.com.](mailto:dhiep2307@gmail.com.)
