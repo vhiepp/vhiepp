@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/vhiepp/">
     <img src="https://github.com/vhiepp/vhiepp/blob/main/fb.png" width="48" height="48" />
   </a>
-  <a href="mailto:dhiep2307@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dhiep2307@gmail.com&su=Liên hệ hợp tác, tuyển dụng">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   
